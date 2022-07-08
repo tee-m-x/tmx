@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @inktag
-- 🌱 I’m currently learning C/C++ and developement tools
-- 📫 tmxuselinux@gmail.com
+Hello!
+C++
+=)
 
 <!---
 inktag/inktag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
